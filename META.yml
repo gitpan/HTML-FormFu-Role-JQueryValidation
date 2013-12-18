@@ -20,4 +20,4 @@ requires:
   Scalar::Util: 1.35
 resources:
   repository: git://github.com/fireartist/HTML-FormFu-Role-JQueryValidation.git
-version: 1.00
+version: 1.01
